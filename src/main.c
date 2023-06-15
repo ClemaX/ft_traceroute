@@ -1,7 +1,3 @@
-/*
-**	TODO: Insert header
-*/
-
 int	main(int ac, char **av)
 {
 	(void)ac;

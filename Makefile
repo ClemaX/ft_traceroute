@@ -1,4 +1,4 @@
-NAME := skeleton
+NAME := ft_traceroute
 
 # Compiler and linker
 CC := clang
