@@ -14,7 +14,7 @@ OBJDIR := obj
 BINDIR := .
 
 # Library dependencies
-LIBS := $(addprefix $(LIBDIR)/, )
+LIBS := $(addprefix $(LIBDIR)/, libnet_utils/libnet_utils.a)
 
 LIBDIRS := $(dir $(LIBS))
 LIBINCS := $(addsuffix $(INCDIR), $(LIBDIRS))
