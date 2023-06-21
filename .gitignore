@@ -13,3 +13,4 @@ obj/
 
 # clangd
 compile_commands.json
+.cache/
